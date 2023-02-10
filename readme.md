@@ -4,7 +4,7 @@ A camera control for three.js, similar to THREE.OrbitControls yet supports smoot
 
 [![Latest NPM release](https://img.shields.io/npm/v/camera-controls.svg)](https://www.npmjs.com/package/camera-controls)
 
-[documentation](https://camera-controls.pages.dev/classes/CameraControls)
+[documentation](https://abernier.github.io/camera-controls/classes/CameraControls)
 ## Examples
 
 | camera move    | default user input (Configurable) |
@@ -13,33 +13,33 @@ A camera control for three.js, similar to THREE.OrbitControls yet supports smoot
 | Dolly          | middle mouse drag, or mousewheel / touch: two-finger pinch-in or out |
 | Truck (Pan)    | right mouse drag / touch: two-finger move or three-finger move |
 
-- [basic](https://yomotsu.github.io/camera-controls/examples/basic.html)
-- [fit-and-padding](https://yomotsu.github.io/camera-controls/examples/fit-and-padding.html)
-- [fit-to-bounding-sphere](https://yomotsu.github.io/camera-controls/examples/fit-to-bounding-sphere.html)
-- [boundary](https://yomotsu.github.io/camera-controls/examples/boundary.html)
-- [focal offset](https://yomotsu.github.io/camera-controls/examples/focal-offset.html)
-- [click to set orbit point](https://yomotsu.github.io/camera-controls/examples/click-to-set-orbit-point.html)
-- [look in the point direction](https://yomotsu.github.io/camera-controls/examples/look-in-direction.html)
-- [viewport within the canvas](https://yomotsu.github.io/camera-controls/examples/viewport.html)
-- [z-up camera](https://yomotsu.github.io/camera-controls/examples/camera-up.html)
-- [orthographic](https://yomotsu.github.io/camera-controls/examples/orthographic.html)
-- [event attach / detach](https://yomotsu.github.io/camera-controls/examples/event-attach.html)
-- [user input config](https://yomotsu.github.io/camera-controls/examples/config.html)
-- [mouse drag with modifier keys](https://yomotsu.github.io/camera-controls/examples/mouse-drag-with-modifier-keys.html)
-- [combined gestures](https://yomotsu.github.io/camera-controls/examples/combined-gestures.html)
-- [keyboard events](https://yomotsu.github.io/camera-controls/examples/keyboard.html)
-- [rest and sleep events](https://yomotsu.github.io/camera-controls/examples/rest-and-sleep.html)
-- [changing the cursor](https://yomotsu.github.io/camera-controls/examples/cursor.html)
-- [collision](https://yomotsu.github.io/camera-controls/examples/collision.html)
-- [first-person](https://yomotsu.github.io/camera-controls/examples/first-person.html)
+- [basic](https://abernier.github.io/camera-controls/examples/basic.html)
+- [fit-and-padding](https://abernier.github.io/camera-controls/examples/fit-and-padding.html)
+- [fit-to-bounding-sphere](https://abernier.github.io/camera-controls/examples/fit-to-bounding-sphere.html)
+- [boundary](https://abernier.github.io/camera-controls/examples/boundary.html)
+- [focal offset](https://abernier.github.io/camera-controls/examples/focal-offset.html)
+- [click to set orbit point](https://abernier.github.io/camera-controls/examples/click-to-set-orbit-point.html)
+- [look in the point direction](https://abernier.github.io/camera-controls/examples/look-in-direction.html)
+- [viewport within the canvas](https://abernier.github.io/camera-controls/examples/viewport.html)
+- [z-up camera](https://abernier.github.io/camera-controls/examples/camera-up.html)
+- [orthographic](https://abernier.github.io/camera-controls/examples/orthographic.html)
+- [event attach / detach](https://abernier.github.io/camera-controls/examples/event-attach.html)
+- [user input config](https://abernier.github.io/camera-controls/examples/config.html)
+- [mouse drag with modifier keys](https://abernier.github.io/camera-controls/examples/mouse-drag-with-modifier-keys.html)
+- [combined gestures](https://abernier.github.io/camera-controls/examples/combined-gestures.html)
+- [keyboard events](https://abernier.github.io/camera-controls/examples/keyboard.html)
+- [rest and sleep events](https://abernier.github.io/camera-controls/examples/rest-and-sleep.html)
+- [changing the cursor](https://abernier.github.io/camera-controls/examples/cursor.html)
+- [collision](https://abernier.github.io/camera-controls/examples/collision.html)
+- [first-person](https://abernier.github.io/camera-controls/examples/first-person.html)
 - [third-person](https://yomotsu.github.io/meshwalk/example/5_terrain.html) (with [meshwalk](https://github.com/yomotsu/meshwalk))
-- [auto rotate](https://yomotsu.github.io/camera-controls/examples/auto-rotate.html)
-- [camera shake effect](https://yomotsu.github.io/camera-controls/examples/effect-shake.html)
-- [rotate with time duration and easing](https://yomotsu.github.io/camera-controls/examples/easing.html) (with [gsap](https://www.npmjs.com/package/gsap))
-- [path animation](https://yomotsu.github.io/camera-controls/examples/path-animation.html) (with [gsap](https://www.npmjs.com/package/gsap))
-- [complex transitions with `await`](https://yomotsu.github.io/camera-controls/examples/await-transitions.html)
-- [set view padding](https://yomotsu.github.io/camera-controls/examples/padding-with-view-offset.html)
-- [outside of iframe dragging](https://yomotsu.github.io/camera-controls/examples/iframe.html)
+- [auto rotate](https://abernier.github.io/camera-controls/examples/auto-rotate.html)
+- [camera shake effect](https://abernier.github.io/camera-controls/examples/effect-shake.html)
+- [rotate with time duration and easing](https://abernier.github.io/camera-controls/examples/easing.html) (with [gsap](https://www.npmjs.com/package/gsap))
+- [path animation](https://abernier.github.io/camera-controls/examples/path-animation.html) (with [gsap](https://www.npmjs.com/package/gsap))
+- [complex transitions with `await`](https://abernier.github.io/camera-controls/examples/await-transitions.html)
+- [set view padding](https://abernier.github.io/camera-controls/examples/padding-with-view-offset.html)
+- [outside of iframe dragging](https://abernier.github.io/camera-controls/examples/iframe.html)
 - [in react-three-fiber (simplest)](https://codesandbox.io/s/react-three-fiber-camera-controls-4jjor?file=/src/App.tsx)
 - [in react-three-fiber (drei official)](https://codesandbox.io/s/sew669) (see [doc](https://github.com/pmndrs/drei#cameracontrols))
 
@@ -199,11 +199,11 @@ To unsubscribe, use `cameraControl.removeEventListener( 'eventname', function )`
 | `'sleep'`           | When the camera end moving. |
 
 1. `mouseButtons.wheel` (Mouse wheel control) does not emit `'controlstart'` and `'controlend'`. `mouseButtons.wheel` uses scroll-event internally, and scroll-event happens intermittently. That means "start" and "end" cannot be detected.
-2. Due to damping, `sleep` will usually fire a few seconds after the camera _appears_ to have stopped moving. If you want to do something (e.g. enable UI, perform another transition) at the point when the camera has stopped, you probably want the `rest` event. This can be fine tuned using the `.restThreshold` parameter. See the [Rest and Sleep Example](https://yomotsu.github.io/camera-controls/examples/rest-and-sleep.html).
+2. Due to damping, `sleep` will usually fire a few seconds after the camera _appears_ to have stopped moving. If you want to do something (e.g. enable UI, perform another transition) at the point when the camera has stopped, you probably want the `rest` event. This can be fine tuned using the `.restThreshold` parameter. See the [Rest and Sleep Example](https://abernier.github.io/camera-controls/examples/rest-and-sleep.html).
 
 ## User input config
 
-Working example: [user input config](https://yomotsu.github.io/camera-controls/examples/config.html)
+Working example: [user input config](https://abernier.github.io/camera-controls/examples/config.html)
 
 | button to assign      | behavior |
 | --------------------- | -------- |
@@ -769,3 +769,69 @@ added
 This project exists thanks to all the people who contribute.
 
 ![](https://contributors-img.web.app/image?repo=yomotsu/camera-controls)
+
+
+## Release
+
+Pre-requisites:
+1. a npm registry up and running with a [`NPM_TOKEN`](https://docs.npmjs.com/creating-and-viewing-access-tokens)
+   ```sh
+	$ export NPM_TOKEN=npm_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	 ```
+2. a Github [PAT](https://github.com/semantic-release/github#github-authentication)
+   ```sh
+	 $ export GITHUB_TOKEN=github_pat_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+	 ```
+
+```sh
+$ npm run release -- --dry-run
+
+> camera-controls@2.2.1 release
+> semantic-release
+
+[4:42:06 PM] [semantic-release] › ℹ  Running semantic-release version 20.1.0
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "verifyConditions" from "@semantic-release/npm"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "verifyConditions" from "@semantic-release/github"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "analyzeCommits" from "@semantic-release/commit-analyzer"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "generateNotes" from "@semantic-release/release-notes-generator"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "prepare" from "@semantic-release/npm"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "publish" from "@semantic-release/npm"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "publish" from "@semantic-release/github"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "addChannel" from "@semantic-release/npm"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "addChannel" from "@semantic-release/github"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "success" from "@semantic-release/github"
+[4:42:06 PM] [semantic-release] › ✔  Loaded plugin "fail" from "@semantic-release/github"
+[4:42:06 PM] [semantic-release] › ⚠  This run was not triggered in a known CI environment, running in dry-run mode.
+[4:42:09 PM] [semantic-release] › ⚠  Run automated release from branch semantic-release on repository abernier/camera-controls in dry-run mode
+[4:42:09 PM] [semantic-release] › ✔  Allowed to push to the Git repository
+[4:42:09 PM] [semantic-release] › ℹ  Start step "verifyConditions" of plugin "@semantic-release/npm"
+[4:42:09 PM] [semantic-release] [@semantic-release/npm] › ℹ  Verify authentication for registry http://localhost:4873/
+[4:42:09 PM] [semantic-release] [@semantic-release/npm] › ℹ  Reading npm config from /Users/abernier/.npmrc, /Users/abernier/Sites/camera-controls/.npmrc
+[4:42:09 PM] [semantic-release] [@semantic-release/npm] › ℹ  Wrote NPM_TOKEN to /private/var/folders/jq/v82th6qx7j37zztbbts071v80000gn/T/6381775fc17adece101baa6de43760c9/.npmrc
+[4:42:09 PM] [semantic-release] › ✔  Completed step "verifyConditions" of plugin "@semantic-release/npm"
+[4:42:09 PM] [semantic-release] › ℹ  Start step "verifyConditions" of plugin "@semantic-release/github"
+[4:42:09 PM] [semantic-release] [@semantic-release/github] › ℹ  Verify GitHub authentication
+[4:42:10 PM] [semantic-release] › ✔  Completed step "verifyConditions" of plugin "@semantic-release/github"
+[4:42:10 PM] [semantic-release] › ℹ  Found git tag v2.2.1 associated with version 2.2.1 on branch semantic-release
+[4:42:10 PM] [semantic-release] › ℹ  Found 1 commits since last release
+[4:42:10 PM] [semantic-release] › ℹ  Start step "analyzeCommits" of plugin "@semantic-release/commit-analyzer"
+[4:42:10 PM] [semantic-release] [@semantic-release/commit-analyzer] › ℹ  Analyzing commit: fix: semantic-release local test
+[4:42:10 PM] [semantic-release] [@semantic-release/commit-analyzer] › ℹ  The release type for the commit is patch
+[4:42:10 PM] [semantic-release] [@semantic-release/commit-analyzer] › ℹ  Analysis of 1 commits complete: patch release
+[4:42:10 PM] [semantic-release] › ✔  Completed step "analyzeCommits" of plugin "@semantic-release/commit-analyzer"
+[4:42:10 PM] [semantic-release] › ℹ  The next release version is 2.2.2
+[4:42:10 PM] [semantic-release] › ℹ  Start step "generateNotes" of plugin "@semantic-release/release-notes-generator"
+[4:42:10 PM] [semantic-release] › ✔  Completed step "generateNotes" of plugin "@semantic-release/release-notes-generator"
+[4:42:10 PM] [semantic-release] › ⚠  Skip step "prepare" of plugin "@semantic-release/npm" in dry-run mode
+[4:42:10 PM] [semantic-release] › ⚠  Skip v2.2.2 tag creation in dry-run mode
+[4:42:10 PM] [semantic-release] › ⚠  Skip step "publish" of plugin "@semantic-release/npm" in dry-run mode
+[4:42:10 PM] [semantic-release] › ⚠  Skip step "publish" of plugin "@semantic-release/github" in dry-run mode
+[4:42:10 PM] [semantic-release] › ⚠  Skip step "success" of plugin "@semantic-release/github" in dry-run mode
+[4:42:10 PM] [semantic-release] › ✔  Published release 2.2.2 on default channel
+[4:42:10 PM] [semantic-release] › ℹ  Release note for version 2.2.2:
+## 2.2.2 (2023-02-10)
+
+### Bug Fixes
+
+    * semantic-release local test (3c55627)
+```
