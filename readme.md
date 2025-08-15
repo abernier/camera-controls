@@ -4,6 +4,10 @@
 
 this is my fork of original [yomotsu/camera-controls](https://github.com/yomotsu/camera-controls)
 
+## Release
+
+To release a new version of the npm package, [create a main←dev PR](https://github.com/abernier/camera-controls/compare/main...abernier:camera-controls:dev?expand=1) with a merge-commit (to preserve conventional commits messages from dev)
+
 <details>
 
 # camera-controls
